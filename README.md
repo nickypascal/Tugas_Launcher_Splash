@@ -1,7 +1,8 @@
 # IntentProject
 
-Nama : Serius Ndruru
-NIM : 31221058
+Nama : Nicky Pascal Tambunan
+
+NIM : 312210474
 
 Kelas : TI.22.A.5
 
@@ -11,4 +12,7 @@ Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I
 
 # HASIL RUNNING
 
-https://github.com/rius23/IntentProject/assets/129859832/5bb847ad-d310-4e7a-8575-51d4cd5505c2
+
+https://github.com/nickypascal/Tugas_Launcher_Splash/assets/130324043/48391722-6065-4ad4-86b9-bc22670ee2c8
+
+
